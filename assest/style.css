@@ -38,3 +38,25 @@ p {
   text-align: center;
   margin: 1em 1em 0;
 }
+
+.tab {
+  width: 80%;
+  border-collapse: collapse;
+  border-width: 2px;
+  border-color: #14912f;
+  border-style: solid;
+  color: #000000;
+  margin: 1em auto;
+}
+
+table.tab td,
+table.tab th {
+  border-width: 2px;
+  border-color: #14912f;
+  border-style: solid;
+  padding: 3px;
+}
+
+table.tab thead {
+  background-color: #14912f;
+}
