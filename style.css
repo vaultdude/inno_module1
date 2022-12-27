@@ -35,6 +35,22 @@ p {
   text-align: justify;
 }
 
+.underline_text {
+  text-decoration: underline;
+}
+
+.note {
+  font-weight: bold;
+  color: purple;
+}
+.throug_line {
+  text-decoration: line-through;
+}
+
+.italic_style {
+  font-style: italic;
+}
+
 #footer {
   text-align: center;
   margin: 1em 1em 0;
