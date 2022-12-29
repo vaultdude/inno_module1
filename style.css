@@ -1,0 +1,92 @@
+html,
+body {
+  background: #f1ece2;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-align: center;
+  font-family: "Caveat", cursive;
+}
+
+.logo,
+.chapter {
+  text-align: center;
+}
+
+.chapter > img {
+  width: 10em;
+  padding: 25px;
+}
+
+.main {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.article > h1 {
+  color: #14912f;
+}
+
+.article > h2 {
+  color: purple;
+}
+
+article,
+p {
+  font-weight: 400;
+  font-family: "Roboto Slab", serif;
+  text-align: justify;
+}
+
+.underline_text {
+  text-decoration: underline;
+}
+
+.note {
+  font-weight: bold;
+  color: coral;
+}
+.throug_line {
+  text-decoration: line-through;
+}
+
+.italic_style {
+  font-style: italic;
+}
+
+#footer {
+  text-align: center;
+  margin: 1em 1em 0;
+}
+
+.footer {
+  text-align: center;
+  width: 100%;
+}
+
+.tab {
+  width: 80%;
+  border-collapse: collapse;
+  border-width: 2px;
+  border-color: #14912f;
+  border-style: solid;
+  color: #000000;
+  margin: 1em auto;
+}
+
+table.tab td,
+table.tab th {
+  border-width: 2px;
+  border-color: #14912f;
+  border-style: solid;
+  padding: 3px;
+}
+
+table.tab thead {
+  background-color: #14912f;
+}
